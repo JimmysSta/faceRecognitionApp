@@ -1,0 +1,13 @@
+/*.boundaries {
+	width: 500px;
+	height: auto;
+}*/
+
+.bBox {
+	position: absolute;
+	box-shadow: 0 0 0 2px #006692 inset;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	cursor: pointer;
+}
